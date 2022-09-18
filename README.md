@@ -16,5 +16,14 @@ CNUOS is an educational operating system project for AArch64-based hardwares, es
 ## Architecture
 
 ## Challenges
+ * [ ] Process
+
+ * [ ] Thread and Basic Concurrency
+
+ * [ ] Memory Management and Isolation
+
+ * [ ] Shell and Interprocess Communication (IPC)
+
+ * [ ] Filesystem (MFS)
 
 ## References
