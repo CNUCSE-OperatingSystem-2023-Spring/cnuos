@@ -7,7 +7,7 @@ CNUOS is an educational operating system project for AArch64-based hardwares, es
 
 ### Testing and Debugging
 
-#### VirtualBox
+#### QEMU
 
 #### UART
 
