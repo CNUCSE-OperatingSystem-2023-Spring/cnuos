@@ -13,9 +13,9 @@ set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "")
 file(GLOB_RECURSE
     src
         CONFIGURE_DEPENDS
-            ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp
-            ${CMAKE_CURRENT_SOURCE_DIR}/src/**/*.cpp
-            ${CMAKE_CURRENT_SOURCE_DIR}/src/**/**/*.cpp
+            ${CMAKE_CURRENT_SOURCE_DIR}/src/*.c
+            ${CMAKE_CURRENT_SOURCE_DIR}/src/**/*.c
+            ${CMAKE_CURRENT_SOURCE_DIR}/src/**/**/*.c
 )
 
 target_sources(
