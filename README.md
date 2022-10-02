@@ -1,5 +1,5 @@
 # CNUOS
-CNUOS is an educational operating system project for AArch64-based hardwares, especially Raspberry Pi 3B or newer versions. It is written in C and is intended to be completed by student's own implementation.
+CNUOS is an educational operating system project for AMD64 hardwares. It is written in C and is intended to be completed by student's own implementation.
 
 ## Building
 
@@ -7,9 +7,9 @@ CNUOS is an educational operating system project for AArch64-based hardwares, es
 
 ### Testing and Debugging
 
-#### QEMU
+#### Installing QEMU
 
-#### UART
+#### Start and Attaching a Debugger
 
 ## How It Works
 
@@ -27,3 +27,10 @@ CNUOS is an educational operating system project for AArch64-based hardwares, es
  * [ ] Filesystem (MFS)
 
 ## References
+The challenges refer these well-known operating system textbooks:
+ 1. William Stallings. 2017. Operating Systems: Internals and Design Principles (10th. ed.). Prentice Hall Press, USA.
+ 2. Abraham Silberschatz, et al. 2018. Operating System Concepts, 10th Edition. Wiley. 
+
+The basic hardware abstraction refers the book series named **Principles and Structure of 64bit Multi-core Operating System**, by Seunghoon Han. Unfortnately, these books are no longer be printed.
+ 1. http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788979148367
+ 2. http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788979148374 
